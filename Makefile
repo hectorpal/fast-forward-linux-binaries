@@ -7,6 +7,7 @@ build-image:
 
 get-ff:
 	docker run -v $(PWD):/mnt/home -it $(TAG) cp /root/bin/ff /mnt/home
+	gzip ff
 
 run-it:
 	echo docker run -v $(PWD):/mnt/home -it $(TAG) bash
