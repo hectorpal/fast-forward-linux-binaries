@@ -1,6 +1,6 @@
 # FF linux binary for planutils
 
-Fast-Forward Linux binaries for planutils.
+[Fast-Forward](https://fai.cs.uni-saarland.de/hoffmann/ff.html) Linux binaries for planutils.
 
 ## Content
 
